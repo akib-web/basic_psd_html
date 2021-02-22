@@ -1,0 +1,80 @@
+/* ...........fixed css.......... */
+body{
+	margin: 0;
+	padding: 0;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  height: auto;
+ /*  overflow-x: hidden; */
+}
+h1,h2,h3,h4,h5,h6{
+	
+	margin: 0;
+	padding: 0;
+  /* font-family: 'lato'; */
+  
+  line-height: 1.5;
+}
+p{
+	margin: 0 ;
+	padding: 0;
+  font-size: 16px;
+  color: #687074;
+}
+a{
+	text-decoration: none !important;
+	border: none;
+  
+}
+
+button{
+  text-transform: uppercase;
+}
+.margin-top-30{
+  margin-top: 30px;
+}
+
+.padding-left{
+  padding-left: 5px !important;
+}
+.padding-0{
+  padding: 0 !important;
+}
+
+.center{
+  transform: translate(150%,0%) !important;
+}
+.margin-top-40{
+margin-top: 40px !important;
+}
+
+.img-center{
+  margin: auto;
+}
+
+.absolute{
+  position:absolute;
+}
+
+
+.view-button,.buy-button{
+  width: 175px;
+  text-decoration: none  ;
+  border: none ;
+  display: inline-block; 
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  padding: 6px 12px;
+  font-size: 18px;
+  line-height: 1.42857143;
+  letter-spacing: 1.8px;
+  background-color: rgb(237,29, 36);
+  color: white;
+
+}
+  .pad-r-0{
+    padding-right: 0;
+  }
